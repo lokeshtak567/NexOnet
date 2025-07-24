@@ -6,7 +6,7 @@ A GUI-based tool developed in Python using Tkinter and PyWiFi to automate the pr
 
 ## 🛠 Features
 
-- ✅ GUI with custom graphics (Tkinter)
+- ✅ GUI with custom graphics 
 - 📶 Scans and connects to the strongest available WiFi networks
 - 🔐 Auto-login to a captive portal with username and password cycling
 - 🌐 Internet connectivity check and re-login if disconnected
