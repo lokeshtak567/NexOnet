@@ -35,8 +35,8 @@
 
 ## 🙌 Developers
 
-### **Lokesh Tak**  
-### **Rudra Sharma**
+### **[Lokesh Tak](https://github.com/lokeshtak567)**
+### **[Rudra Sharma](https://github.com/Rudii-25)**
 
 Proudly built for the student community, by fellow students! ❌
 
